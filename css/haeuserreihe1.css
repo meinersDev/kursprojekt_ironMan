@@ -1,0 +1,425 @@
+#reihe1{
+    position: absolute;
+    bottom: 0;
+    height: 14.5vh;
+}
+
+     /* ##################################### */
+    /*      VORDERE HÄUSERREIHE = REIHE 1    */
+   /*        HOCHHAUS 17 - 30 ein Halb      */
+  /* ##################################### */
+
+  /* ####################################### */
+ /* ############ HOCHHAUS HALB - HH_halb ## */
+/* ####################################### */
+
+#HH_halb{
+    left: -2.5%;
+}
+
+#HH_halb_base1{
+    width: 80%;
+    height: 60%;
+}
+
+#HH_halb_base2{
+    width: 50%;
+    height: 30%;
+}
+
+#HH_halb_base3{
+    width: 30%;
+    height: 8%;
+}
+
+#HH_halb_antenne{
+    width: 3%;
+    height: 2%;
+}
+
+
+/* ####################################### */
+/* ############### HOCHHAUS 17 - HH17 #### */
+/* ####################################### */
+
+#HH17{
+left: 2%;
+}
+
+#HH17_base1{
+height: 80%;
+}
+
+#HH17_base2{
+width: 80%;
+height: 10%;
+margin-left: 18%;
+}
+
+#HH17_base3{
+width: 60%;
+height: 10%;
+margin-left: 35%;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 18 - HH18 #### */
+/* ####################################### */
+
+#HH18{
+left: 6%;
+}
+
+#HH18_base1{
+height: 53%;
+}
+
+#HH18_base2{
+width: 90%;
+height: 40%;
+margin-left: 8%;
+}
+
+#HH18_base3{
+width: 40%;
+height: 8%;
+margin-left: 58%;
+}
+
+    /* ####### FILLBLOCK - BLOCK1 ###### */
+
+#block1{
+left: 8%;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 19 - HH19 #### */
+/* ####################################### */
+
+#HH19{
+left: 11%;
+}
+
+#HH19_base1{
+height: 53%;
+}
+
+#HH19_base2{
+width: 90%;
+height: 40%;
+margin-right: 8%;
+}
+
+#HH19_base3{
+width: 40%;
+height: 8%;
+margin-right: 58%;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 20 - HH20 #### */
+/* ####################################### */
+
+#HH20{
+left: 16.5%;
+}
+
+#HH20_base1{
+height: 80%;
+}
+
+#HH20_base2{
+width: 80%;
+height: 10%;
+margin-left: 20%;
+}
+
+#HH20_base3{
+width: 60%;
+height: 7%;
+margin-left: 40%;
+}
+
+#HH20_antenne{
+width: 10%;
+height: 5%;
+margin-left: 40%;
+}
+
+
+/* ####################################### */
+/* ############### HOCHHAUS 21 - HH21 #### */
+/* ####################################### */
+
+#HH21{
+left: 21%;
+}
+
+#HH21_base1{
+height: 30%;
+border-radius: 2% 0 0 0;
+}
+
+#HH21_base2{
+width: 90%;
+height: 63%;
+margin-left: 9%;
+border-radius: 5% 0 0 0;
+}
+
+#HH21_base3{
+width: 40%;
+height: 8%;
+margin-left: 59%;
+border-radius: 5% 5% 0 0;
+}
+
+/* ####### FILLBLOCK - BLOCK2 ###### */
+
+#block2{
+left: 25%;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 22 - HH22 #### */
+/* ####################################### */
+
+#HH22{
+left: 29%;
+}
+
+#HH22_base1{
+height: 70%;
+border-radius: 2% 0 0 0;
+}
+
+#HH22_base2{
+width: 85%;
+height: 30%;
+border-radius: 0 5% 0 0;
+margin-left: 15%;
+}
+
+#HH22_base3{
+width: 40%;
+height: 30%;
+border-radius: 5% 5% 0 0;
+margin-right: 30%;
+}
+
+/* ####### FILLBLOCK - BLOCK3 ###### */
+
+#block3{
+left: 35%;
+}
+
+/* ####################################### */
+/* ############# HOCHHAUS 23 - HH23 ###### */
+/* ####################################### */
+
+#HH23{
+left: 38.5%;
+}
+
+#HH23_base1{
+height: 95%;
+border-radius: 5% 5% 0 0;
+}
+
+#HH23_base2{
+width: 50%;
+height: 5%;
+border-radius: 5% 5% 0 0;
+}
+
+/* ####### FILLBLOCK - BLOCK4 ###### */
+
+#block4{
+left: 38.5%;
+border-radius: 0 5% 0 0;
+}
+
+/* ####################################### */
+/* ############# HOCHHAUS 24 - HH24 ###### */
+/* ####################################### */
+
+#HH24{
+left: 44%;
+}
+
+#HH24_base1{
+width: 80%;
+height: 60%;
+}
+
+#HH24_base2{
+width: 50%;
+height: 30%;
+}
+
+#HH24_base3{
+width: 30%;
+height: 8%;
+}
+
+#HH24_antenne{
+width: 3%;
+height: 3%;
+}
+
+/* ####### FILLBLOCK - BLOCK5 ###### */
+
+#block5{
+left: 47%;
+border-radius: 0 5% 0 0;
+}
+
+/* ####################################### */
+/* ############# HOCHHAUS 25 - HH25 ###### */
+/* ####################################### */
+
+#HH25{
+left: 47.5%;
+}
+
+/* ####################################### */
+/* ############# HOCHHAUS 26 - HH26 ###### */
+/* ####################################### */
+
+#HH26{
+left: 55%;
+}
+
+/* ####################################### */
+/* ############# HOCHHAUS 27 - HH27 ###### */
+/* ####################################### */
+
+#HH27{
+left: 59%;
+}
+
+#HH27_base1{
+height: 100%;
+}
+
+#HH27_base2{
+width: 80%;
+height: 30%;
+}
+
+#HH27_base3{
+width: 50%;
+height: 5%;
+}
+
+/* ####### FILLBLOCK - BLOCK6 ###### */
+
+#block6{
+left: 56%;
+border-radius: 0 5% 0 0;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 28 - HH28 #### */
+/* ####################################### */
+
+#HH28{
+left: 66%;
+}
+
+#HH28_base1{
+height: 30%;
+border-radius: 0 5% 0 0;
+}
+
+#HH28_base2{
+width: 90%;
+height: 63%;
+margin-right: 10%;
+border-radius: 0 5% 0 0;
+}
+
+#HH28_base3{
+width: 40%;
+height: 8%;
+margin-right: 60%;
+border-radius: 5% 5% 0 0;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 29 - HH29 #### */
+/* ####################################### */
+
+#HH29{
+left: 73.5%;
+}
+
+#HH29_base1{
+height: 80%;
+}
+
+#HH29_base2{
+width: 80%;
+height: 10%;
+margin-left: 20%;
+}
+
+#HH29_base3{
+width: 60%;
+height: 7%;
+margin-left: 40%;
+}
+
+#HH29_antenne{
+width: 15%;
+height: 3%;
+margin-left: 40%;
+}
+
+/* ####################################### */
+/* ############### HOCHHAUS 30 - HH30 #### */
+/* ####################################### */
+
+#HH30{
+left: 81%;
+}
+
+#HH30_base1{
+height: 80%;
+border-radius: 5% 5% 0 0;
+}
+
+#HH30_base2{
+height: 15%;
+width: 70%;
+margin-left: 16%;
+border-radius: 10% 10% 0 0;
+}
+
+/* ####################################### */
+/* ######## HOCHHAUS HALB - HH_halb_end ## */
+/* ####################################### */
+
+#HH_halb_end{
+right: 0;
+align-items: end;
+}
+
+#HH_halb_end_base1{
+height: 60%;
+}
+
+#HH_halb_end_base2{
+width: 70%;
+height: 20%;
+}
+
+#HH_halb_end_base3{
+width: 30%;
+height: 15%;
+}
+
+#HH_halb_end_antenne{
+width: 3%;
+height: 2%;
+}

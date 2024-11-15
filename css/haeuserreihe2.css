@@ -1,0 +1,491 @@
+#reihe2{
+    position: absolute;
+    bottom: 0;
+    height: 19.5vh;
+}
+
+         /* ####################################### */
+        /*      HINTERE HÄUSERREIHE = REIHE 2      */
+       /*              HOCHHAUS 1 - 16            */
+      /* ####################################### */
+
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 1 - HH1 ###### */
+  /* ####################################### */
+
+#HH1{
+    left: 1%;
+}
+
+#HH1_base1{
+    height: 95%;
+}
+
+#HH1_base2{
+    width: 50%;
+    height: 5%;
+}
+
+   /* ####################################### */
+  /* ############### HOCHHAUS 2 - HH2 ###### */
+ /* ####################################### */
+
+#HH2{
+    left: 4.5%;
+}
+
+#HH2_base1{
+    height: 50%;
+}
+
+#HH2_base2{
+    width: 75%;
+    height: 25%;
+}
+
+#HH2_base3{
+    width: 45%;
+    height: 14%;
+}
+
+#HH2_topcircle{
+    width: 35%;
+    border-radius: 50%;
+    height: 10%;
+    bottom: -8%;
+}
+
+/* ---------- Antennen ----------- */
+
+#antennen{
+    width: 48%;
+    height: 40px;
+    justify-content: space-around;
+    flex-grow: 1;
+    align-items: end;
+    bottom: -10%;
+    row-gap: 2%;
+}
+
+#ant1{
+    height: 100%;
+    width: 6%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant2{
+    height: 70%;
+    width: 3%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant3{
+    height: 55%;
+    width: 2%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant4{
+    height: 130%;
+    width: 6%;
+    border-radius: 30% 30% 0 0;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 3 - HH3 ###### */
+  /* ####################################### */
+
+#HH3{
+    left: 9.5%;
+}
+
+#HH3_base1{
+    height: 70%;
+}
+
+#HH3_base2{
+    height: 20%;
+    border-radius: 60% 60% 30% 30%;
+    bottom: -2%;
+}
+
+#HH3_antenne{
+    height: 10%;
+    width: 4%;
+    bottom: -4%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 4 - HH4 ###### */
+  /* ####################################### */
+
+#HH4{
+    left: 13.5%;
+}
+
+#HH4_base1{
+    width: 80%;
+    height: 60%;
+}
+
+#HH4_base2{
+    width: 50%;
+    height: 30%;
+}
+
+#HH4_base3{
+    width: 30%;
+    height: 8%;
+}
+
+#HH4_antenne{
+    width: 3%;
+    height: 3%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 5 - HH5 ###### */
+  /* ####################################### */
+
+#HH5{
+    left: 17%;
+}
+
+#HH5_base1{
+    width: 80%;
+    height: 90%;
+    border-radius: 7% 0% 0 0;
+}
+
+#HH5_base2{
+    width: 50%;
+    height: 6%;
+    margin-left: 29%;
+    border-radius: 20% 20% 0 0;
+}
+
+#HH5_base3{
+    width: 30%;
+    height: 5%;
+    margin-left: 48%;
+    bottom: -1.5%;
+}
+
+.HH5_ant{
+    width: 15%;
+    height: 100%;
+    border-radius: 30% 30% 0 0;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 6 - HH6 ###### */
+  /* ####################################### */
+
+#HH6{
+    left: 25%;
+}
+
+#HH6_box1{
+    height: 10%;
+}
+
+#HH6_box2{
+    height: 90%;
+}
+
+.HH6_innerbox{
+    height: 100%;
+    width: 20%;
+    margin: 2%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 7 - HH7 ###### */
+  /* ####################################### */
+
+#HH7{
+    left: 36%;
+}
+
+#HH7_base1{
+    height: 100%;
+}
+
+#HH7_base2{
+    width: 80%;
+    height: 30%;
+}
+
+#HH7_base3{
+    width: 50%;
+    height: 5%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 8 - HH8 ###### */
+  /* ####################################### */
+
+#HH8{
+    left: 42%;
+    
+}
+
+#HH8_base1{
+    width: 90%;
+    height: 130%;
+}
+
+#HH8_base2{
+    width: 80%;
+    height: 30%;
+}
+
+#HH8_base3{
+    width: 70%;
+    height: 30%;
+}
+
+#HH8_antenne{
+    width: 8%;
+    height: 5%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 9 - HH9 ###### */
+  /* ####################################### */
+
+#HH9{
+    left: 50%;
+}
+
+#HH9_base1{
+    height: 80%;
+}
+
+#HH9_base2{
+    width: 80%;
+    height: 4%;
+}
+
+#HH9_base3{
+    width: 55%;
+    height: 4%;
+}
+
+#HH9_base4{
+    width: 25%;
+    height: 4%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 10 - HH10 #### */
+  /* ####################################### */
+
+#HH10{
+    left: 58%;
+}
+
+#HH10_base1{
+    height: 78%;
+}
+
+/* mit clip-path: polygon wird das Element beschnitten,
+so das nicht der gesamte Inhalt angezeigt wird.
+Somit sind weitere Formen (wie Dreiecke) möglich und diese können
+dann auch responsiv sein, da man mit Prozentangaben arbeiten kann 
+und nicht auf pixel festgelegt ist. */
+#HH10_base2{
+    height: 100px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 11 - HH11 #### */
+  /* ####################################### */
+
+
+#HH11{
+    left: 62%;
+}
+
+#HH11_base1{
+    width: 80%;
+    height: 90%;
+    border-radius: 7% 0% 0 0;
+}
+
+#HH11_base2{
+    width: 50%;
+    height: 6%;
+    margin-left: 29%;
+    border-radius: 20% 20% 0 0;
+}
+
+#HH11_base3{
+    width: 30%;
+    height: 5%;
+    margin-left: 48%;
+    bottom: -1.5%;
+}
+
+.HH11_ant{
+    width: 15%;
+    height: 100%;
+    border-radius: 30% 30% 0 0;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 12 - HH12 #### */
+  /* ####################################### */
+
+#HH12{
+    left: 69%;
+}
+
+#HH12_base1{
+    width: 80%;
+    height: 60%;
+}
+
+#HH12_base2{
+    width: 50%;
+    height: 30%;
+}
+
+#HH12_base3{
+    width: 30%;
+    height: 8%;
+}
+
+#HH12_antenne{
+    width: 3%;
+    height: 3%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 13 - HH13 #### */
+  /* ####################################### */
+
+#HH13{
+    left: 72%;
+}
+
+#HH13_base1{
+    height: 95%;
+}
+
+#HH13_base2{
+    width: 50%;
+    height: 5%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 14 - HH14 #### */
+  /* ####################################### */
+
+#HH14{
+    left: 76%;
+    
+}
+
+#HH14_base1{
+    width: 90%;
+    height: 130%;
+}
+
+#HH14_base2{
+    width: 80%;
+    height: 30%;
+}
+
+#HH14_base3{
+    width: 70%;
+    height: 30%;
+}
+
+#HH14_antenne{
+    width: 8%;
+    height: 5%;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 15 - HH15 #### */
+  /* ####################################### */
+
+#HH15{
+    left: 82%;
+}
+
+#HH15_base1{
+    height: 50%;
+}
+
+#HH15_base2{
+    width: 75%;
+    height: 25%;
+}
+
+#HH15_base3{
+    width: 45%;
+    height: 14%;
+}
+
+#HH15_topcircle{
+    width: 35%;
+    border-radius: 50%;
+    height: 10%;
+    bottom: -8%;
+}
+
+/* ------------ Antennen ------------ */
+
+#antennen{
+    width: 48%;
+    height: 40px;
+    justify-content: space-around;
+    flex-grow: 1;
+    align-items: end;
+    bottom: -10%;
+    row-gap: 2%;
+}
+
+#ant1{
+    height: 100%;
+    width: 6%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant2{
+    height: 70%;
+    width: 3%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant3{
+    height: 55%;
+    width: 2%;
+    border-radius: 30% 30% 0 0;
+}
+
+#ant4{
+    height: 130%;
+    width: 6%;
+    border-radius: 30% 30% 0 0;
+}
+
+    /* ####################################### */
+   /* ############### HOCHHAUS 16 - HH16 #### */
+  /* ####################################### */
+
+#HH16{
+    left: 88%;
+}
+
+#HH16_box1{
+    height: 10%;
+}
+
+#HH16_box2{
+    height: 90%;
+}

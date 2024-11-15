@@ -1,0 +1,49 @@
+/* ----------------- FARBEN -------------------- */
+
+.red1{
+    background-color: rgb(101, 4, 1);
+}
+
+.red2{
+    background-color: rgb(134, 7, 3);
+}
+
+.red4_light{
+    background-color: rgb(199, 28, 25);
+}
+
+.red8{
+    background-color: rgb(53, 3, 1);
+}
+
+.red9{
+    background-color: rgb(31, 1, 2);
+}
+
+.white{
+    background-color: rgb(255, 254, 255);
+}
+
+/* --------------- BLUR EFFEKT ------------------ */
+
+.blur_red1{
+    box-shadow:
+    4px 4px 3px rgb(101, 4, 1),
+    -4px 4px 3px rgb(101, 4, 1),
+    4px -4px 3px rgb(101, 4, 1),
+    -4px -4px 3px rgb(101, 4, 1);
+}
+
+.blur_red2{
+    box-shadow:
+    4px 4px 3px rgb(134, 7, 3),
+    -4px 4px 3px rgb(134, 7, 3),
+    4px -4px 3px rgb(134, 7, 3),
+    -4px -4px 3px rgb(134, 7, 3);
+}
+
+.blur_white{
+    box-shadow:
+    5px 5px 15px 5px rgb(255, 254, 255),
+    -5px 5px 15px 5px rgb(255, 254, 255);
+}

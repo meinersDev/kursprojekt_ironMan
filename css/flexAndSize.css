@@ -1,0 +1,125 @@
+/* ######### FLEX UND POSITIONIERUNG ########## */
+.flex_row{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+    bottom: 100%;
+}
+
+.relative{
+    position: relative;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+/* ############# GRÖßEN VIEWPORT ##############*/
+
+/* width vw */
+
+.width_3{
+    width: 3vw;
+}
+
+.width_4{
+    width: 4vw;
+}
+
+.width_5{
+    width: 5vw;
+}
+
+.width_6{
+    width: 6vw;
+}
+
+.width_7{
+    width: 7vw;
+}
+
+.width_8{
+    width: 8vw;
+}
+
+.width_9{
+    width: 9vw;
+}
+
+.width_10{
+    width: 10vw;
+}
+
+/*############# GRÖßEN % PROZENT % ##########*/
+
+/* widht % */
+
+.width_100{
+    width: 100%;
+}
+
+/* height % */
+
+.height_100{
+    height: 100%;
+}
+
+.height_120{
+    height: 120%;
+}
+
+.height_125{
+    height: 125%;
+}
+
+.height_130{
+    height: 130%;
+}
+
+.height_150{
+    height: 150%;
+}
+
+.height_160{
+    height: 160%;
+}
+
+.height_170{
+    height: 170%;
+}
+
+.height_180{
+    height: 180%;
+}
+
+.height_200{
+    height: 200%;
+}
+
+.height_220{
+    height: 220%;
+}
+
+.height_230{
+    height: 230%;
+}
+
+.height_240{
+    height: 240%;
+}
+
+.height_250{
+    height: 250%;
+}
+
+

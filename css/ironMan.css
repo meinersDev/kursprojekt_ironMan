@@ -1,0 +1,319 @@
+
+#MARK_I{
+    position: absolute;
+    height: 80%;
+    width: 17.5vw;
+    align-items: center;
+    justify-content: center;
+    left: 42%;
+    bottom: 0%;
+}
+
+  /* ####################################### */
+ /* ################# KOPF ################ */
+/* ####################################### */
+
+#kopf{
+    height: 10%;
+    width: 18.5%;
+    align-items: center;
+    border-radius: 40% 40% 20% 20%;
+    bottom: -13.5%;
+    }
+
+#gesicht{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    border-radius: 30% 30% 20% 20%;
+    bottom: -8.5%;
+}
+
+.ohren{
+    width: 15%;
+    height: 32%;
+    border-radius: 30% 30% 20% 20%;
+    margin-top: 25%;
+}
+
+#linkes_ohr{
+    left: -3.5%;
+}
+
+#rechtes_ohr{
+    right: -3.5%;
+}
+
+.auge{
+    width: 40%;
+    height: 5.5%;
+    background-color: rgb(255, 254, 255);
+    border-radius: 30% 30% 0% 0%;
+    margin-bottom: 95%;
+}
+
+#auge_links{
+    margin-left: 0.5%;
+    transform: rotate(-10deg);
+}
+
+#auge_rechts{
+    margin-right: 0.5%;
+    transform: rotate(10deg);
+}
+
+/* ---------------- NACKEN --------------- */
+
+#nacken{
+    width: 37%;
+    height: 10%;
+    border-radius: 50% 50% 0% 0%;
+    bottom: -13.5%;
+}
+
+  /* ####################################### */
+ /* ########## OBERKOERPER ################ */
+/* ####################################### */
+
+#oberkoerper{
+    height: 35%;
+    width: 100%;
+}
+
+
+#rumpf{
+    width: 40%;
+    justify-content: end;
+    align-items: center;
+}
+
+
+#brust{
+    height: 45%;
+    width: 94%;
+    border-radius: 0 0 30% 30%;
+    margin-bottom: -9%;
+}
+
+#arc{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    top: 20%;
+    left: 40%;
+    background-color: rgb(215, 212, 215);
+    box-shadow:
+    1px 1px 5px  rgb(215, 212, 215),
+    -1px 1px 5px rgb(215, 212, 215),
+    1px -1px 5px rgb(215, 212, 215),
+    -1px -1px 5px rgb(215, 212, 215);
+}
+
+#taille{
+    width: 86%;
+    height: 11%;
+    margin-top: -2%;
+}
+
+#unterleib{
+    width: 92%;
+    height: 25%;
+    border-radius: 30% 30% 40% 40%;
+    margin-top: -7.5%;
+}
+
+/* -------------- LINKER ARM ------------ */
+
+.Arm{
+    width: 35%;
+    height: 120%;
+    justify-content: center;
+}
+
+#links_schulter{
+    width: 50%;
+    height: 10%;
+    left: 76%;
+    top: 7.5%;
+    border-radius: 50% 50% 30% 30%;
+    transform: rotate(-43deg);
+}
+
+#links_oberarm{
+    width: 40%;
+    height: 60%;
+    left: 62%;
+    border-radius: 30% 0 0 0;
+    transform: rotate(15deg);
+}
+
+#links_gelenk{
+    width: 80%;
+    height: 17%;
+    left: 14%;
+    bottom: 8%;
+    transform: rotate(-75deg);
+    border-radius: 30% 0% 20% 20%;
+}
+
+#links_hand{
+    width: 60%;
+    height: 3%;
+    left: 4%;
+    bottom: 5.5%;
+    transform: rotate(-15deg);
+}
+
+#links_hand_hinten{
+    width: 100%;
+    height: 100%;
+    border-radius: 30% 0% 0% 30%;
+}
+
+#links_hand_vorne{
+    width: 60%;
+    height: 90%;
+    border-radius: 30% 0 30% 30%;
+    left: 20%;
+    bottom: 2%;
+}
+
+#links_repulsor{
+    width: 30%;
+    height: 50%;
+    left: 50%;
+    bottom: 35%;
+    border-radius: 50%;
+    transform: rotate(10deg);
+}
+
+/* ---------------- RECHTER ARM ----------------- */
+
+#rechts_schulter{
+    width: 50%;
+    height: 10%;
+    right: 26%;
+    top: 7.5%;
+    border-radius: 50% 50% 30% 30%;
+    transform: rotate(43deg);
+}
+
+#rechts_oberarm{
+    width: 40%;
+    height: 60%;
+    right: 0%;
+    bottom: -4%;
+    border-radius: 0 30% 0 0;
+    transform: rotate(-15deg);
+}
+
+#rechts_gelenk{
+    width: 80%;
+    height: 17%;
+    right: -3%;
+    bottom: 10%;
+    transform: rotate(75deg);
+    border-radius: 0% 30% 20% 20%;
+}
+
+#rechts_hand{
+    width: 60%;
+    height: 3%;
+    right: -28.5%;
+    bottom: 7%;
+    transform: rotate(15deg);
+}
+
+#rechts_hand_hinten{
+    width: 100%;
+    height: 100%;
+    border-radius: 0% 30% 30% 0%;
+}
+
+#rechts_hand_vorne{
+    width: 60%;
+    height: 90%;
+    border-radius: 30% 0 30% 30%;
+    right: -9%;
+    bottom: 2.5%;
+}
+
+#rechts_repulsor{
+    width: 30%;
+    height: 50%;
+    right: -25%;
+    bottom: 15%;
+    border-radius: 50%;
+    transform: rotate(-5deg);
+}
+
+
+  /* ####################################### */
+ /* ############### BEINE ################# */
+/* ####################################### */
+
+#beine{
+    height: 40%;
+    width: 66%;
+}
+
+/* ---------------- LINKES BEIN ---------------- */
+
+.beine{
+    height: 100%;
+    width: 40%;
+}
+
+#links_oberschenkel{
+    height: 45%;
+    width: 65%;
+    border-radius: 30% 30% 30% 30%;
+    transform: rotate(7deg);
+    left: 50%;
+    bottom: 6.5%;
+}
+
+#links_knie{
+    height: 8%;
+    width: 59%;
+    left: 42%;
+    bottom: 11.5%;
+    transform: rotate(7deg);
+}
+
+#links_schienbein{
+    height: 40%;
+    width: 60%;
+    border-radius: 20% 20% 20% 20%;
+    left: 33%;
+    bottom: 14%;
+    transform: rotate(7deg);
+}
+
+/* ---------------- RECHTES BEIN ---------------- */
+
+#rechts_oberschenkel{
+    height: 45%;
+    width: 65%;
+    border-radius: 30% 30% 30% 30%;
+    transform: rotate(-7deg);
+    right: 11%;
+    bottom: 5.5%;
+}
+
+#rechts_knie{
+    height: 8%;
+    width: 59%;
+    right: -2%;
+    bottom: 9.5%;
+    transform: rotate(-4.5deg);
+}
+
+#rechts_schienbein{
+    height: 40%;
+    width: 60%;
+    border-radius: 20% 20% 20% 20%;
+    right: -8%;
+    bottom: 11%;
+    transform: rotate(-3.5deg);
+}
